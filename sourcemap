@@ -4,3 +4,4 @@ libarchive git https://github.com/libarchive/libarchive.git
 libsnark git https://github.com/scipr-lab/libsnark.git
 mame git https://github.com/mamedev/mame.git
 procmail git https://github.com/achernya/procmail.git
+xref git https://github.com/sipb/xref.git
