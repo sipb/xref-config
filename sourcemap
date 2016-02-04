@@ -1,2 +1,6 @@
 boringssl git https://boringssl.googlesource.com/boringssl
+hesiod git https://github.com/achernya/hesiod.git
 libarchive git https://github.com/libarchive/libarchive.git
+libsnark git https://github.com/scipr-lab/libsnark.git
+mame git https://github.com/mamedev/mame.git
+procmail git https://github.com/achernya/procmail.git
