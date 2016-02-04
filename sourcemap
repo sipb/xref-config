@@ -1,0 +1,2 @@
+boringssl git https://boringssl.googlesource.com/boringssl
+libarchive git https://github.com/libarchive/libarchive.git
