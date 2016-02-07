@@ -1,7 +1,7 @@
 boringssl git https://boringssl.googlesource.com/boringssl
 glibc git git://sourceware.org/git/glibc.git
 hesiod git https://github.com/achernya/hesiod.git
-httpd svn https://svn.apache.org/repos/asf/httpd/
+httpd svn https://svn.apache.org/repos/asf/httpd/httpd/trunk/
 libarchive git https://github.com/libarchive/libarchive.git
 libsdl hg https://hg.libsdl.org/SDL
 libsnark git https://github.com/scipr-lab/libsnark.git
