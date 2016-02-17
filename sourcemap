@@ -1,6 +1,7 @@
 boringssl git https://boringssl.googlesource.com/boringssl
 glibc git git://sourceware.org/git/glibc.git
 gmp hg https://gmplib.org/repo/gmp
+go git https://github.com/golang/go.git
 hesiod git https://github.com/achernya/hesiod.git
 httpd svn https://svn.apache.org/repos/asf/httpd/httpd/trunk/
 libarchive git https://github.com/libarchive/libarchive.git
