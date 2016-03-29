@@ -13,6 +13,7 @@ libstdc++ svn svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3
 llvm svn http://llvm.org/svn/llvm-project/llvm/trunk
 mame git https://github.com/mamedev/mame.git
 openafs git git://git.openafs.org/openafs.git
+openldap git git://git.openldap.org/openldap.git
 procmail git https://github.com/achernya/procmail.git
 rockbox git git://git.rockbox.org/rockbox
 scripts-pony git git://pony.scripts.mit.edu/scripts-pony.git
