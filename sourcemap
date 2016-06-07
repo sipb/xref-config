@@ -5,6 +5,7 @@ gmp hg https://gmplib.org/repo/gmp
 go git https://github.com/golang/go.git
 hesiod git https://github.com/achernya/hesiod.git
 httpd svn https://svn.apache.org/repos/asf/httpd/httpd/trunk/
+krb5 git https://github.com/krb5/krb5.git
 libarchive git https://github.com/libarchive/libarchive.git
 libc++ svn http://llvm.org/svn/llvm-project/libcxx/trunk
 libsdl hg https://hg.libsdl.org/SDL
