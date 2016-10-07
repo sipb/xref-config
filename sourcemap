@@ -11,6 +11,7 @@ libc++ svn http://llvm.org/svn/llvm-project/libcxx/trunk
 libsdl hg https://hg.libsdl.org/SDL
 libsnark git https://github.com/scipr-lab/libsnark.git
 libstdc++ svn svn://gcc.gnu.org/svn/gcc/trunk/libstdc++-v3
+linux git https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 llvm svn http://llvm.org/svn/llvm-project/llvm/trunk
 mame git https://github.com/mamedev/mame.git
 mediawiki git https://gerrit.wikimedia.org/r/p/mediawiki/core
