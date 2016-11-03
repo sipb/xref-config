@@ -1,3 +1,4 @@
+astropy git https://github.com/astropy/astropy.git
 boringssl git https://boringssl.googlesource.com/boringssl
 coreboot git http://review.coreboot.org/coreboot.git
 glibc git git://sourceware.org/git/glibc.git
@@ -17,6 +18,7 @@ mame git https://github.com/mamedev/mame.git
 mediawiki git https://gerrit.wikimedia.org/r/p/mediawiki/core
 musl git git://git.musl-libc.org/musl
 nethack git git://git.code.sf.net/p/nethack/NetHack
+numpy git https://github.com/numpy/numpy.git
 openafs git git://git.openafs.org/openafs.git
 openldap git git://git.openldap.org/openldap.git
 procmail git https://github.com/achernya/procmail.git
