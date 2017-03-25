@@ -16,6 +16,7 @@ linux git https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 llvm svn http://llvm.org/svn/llvm-project/llvm/trunk
 mame git https://github.com/mamedev/mame.git
 mediawiki git https://gerrit.wikimedia.org/r/p/mediawiki/core
+mosh git https://github.com/mobile-shell/mosh.git
 musl git git://git.musl-libc.org/musl
 nethack git git://git.code.sf.net/p/nethack/NetHack
 numpy git https://github.com/numpy/numpy.git
