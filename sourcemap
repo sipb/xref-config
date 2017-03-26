@@ -22,6 +22,7 @@ nethack git git://git.code.sf.net/p/nethack/NetHack
 numpy git https://github.com/numpy/numpy.git
 openafs git git://git.openafs.org/openafs.git
 openldap git git://git.openldap.org/openldap.git
+openssh-portable git git://anongit.mindrot.org/openssh.git
 procmail git https://github.com/achernya/procmail.git
 rockbox git git://git.rockbox.org/rockbox
 scripts-pony git git://pony.scripts.mit.edu/scripts-pony.git
