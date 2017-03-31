@@ -26,4 +26,5 @@ openssh-portable git https://github.com/openssh/openssh-portable.git
 procmail git https://github.com/achernya/procmail.git
 rockbox git git://git.rockbox.org/rockbox
 scripts-pony git git://pony.scripts.mit.edu/scripts-pony.git
+tarsnap git https://github.com/Tarsnap/tarsnap.git
 xref git https://github.com/sipb/xref.git
