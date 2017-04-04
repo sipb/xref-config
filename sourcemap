@@ -25,6 +25,7 @@ openldap git git://git.openldap.org/openldap.git
 openssh-portable git https://github.com/openssh/openssh-portable.git
 procmail git https://github.com/achernya/procmail.git
 rockbox git git://git.rockbox.org/rockbox
+scipy git https://github.com/scipy/scipy.git
 scripts-pony git git://pony.scripts.mit.edu/scripts-pony.git
 tarsnap git https://github.com/Tarsnap/tarsnap.git
 xref git https://github.com/sipb/xref.git
