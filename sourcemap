@@ -22,6 +22,7 @@ mediawiki git https://gerrit.wikimedia.org/r/p/mediawiki/core
 mosh git https://github.com/mobile-shell/mosh.git
 musl git git://git.musl-libc.org/musl
 nethack git git://git.code.sf.net/p/nethack/NetHack
+nettle git https://git.lysator.liu.se/nettle/nettle.git
 numpy git https://github.com/numpy/numpy.git
 openafs git git://git.openafs.org/openafs.git
 opengrok git https://github.com/OpenGrok/OpenGrok.git
