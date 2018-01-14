@@ -5,6 +5,7 @@ coreboot git http://review.coreboot.org/coreboot.git
 glibc git git://sourceware.org/git/glibc.git
 gmp hg https://gmplib.org/repo/gmp
 go git https://github.com/golang/go.git
+go-nfs-client git https://github.com/vmware/go-nfs-client.git
 hesiod git https://github.com/achernya/hesiod.git
 httpd svn https://svn.apache.org/repos/asf/httpd/httpd/trunk/
 iproute2 git git://git.kernel.org/pub/scm/linux/kernel/git/shemminger/iproute2.git
